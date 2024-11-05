@@ -5,6 +5,7 @@ student in Mathematical and Computational Engineering.
 Specialties:
 ---------------------------------------------------------------------------------------------
 -Numerical simulation of dynamic biological and biomedical systems.
+
 -Bioinformatics and AI applications in health, biotech, and pharma.
 
 ---------------------------------------------------------------------------------------------
