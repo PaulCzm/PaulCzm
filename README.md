@@ -6,13 +6,16 @@ ________________________________________________________________________________
 Specialties:
 
 Numerical simulation of biological and biomedical systems.
+
 Bioinformatics and AI-driven solutions.
 
 _________________________________________________________________________________________________________________________________________________________________________________________
 
 Goal:
 
-My goal is to contribute to impactful advancements in science, healthcare, and biotechnology by leveraging engineering, computation, and biology. I'm eager to collaborate with like-minded individuals to create solutions that drive meaningful change. Let’s innovate together!
+My goal is to contribute to impactful advancements in science, healthcare, and biotechnology by leveraging engineering, computation, and biology. 
+
+I'm eager to collaborate with like-minded individuals to create solutions that drive meaningful change. Let’s innovate together!
 
 
 _________________________________________________________________________________________________________________________________________________________________________________________
