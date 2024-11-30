@@ -15,9 +15,6 @@ Goal:
 
 My goal is to contribute to impactful advancements in science, healthcare, and biotechnology by leveraging engineering, computation, and biology. 
 
-I'm eager to collaborate with like-minded individuals to create solutions that drive meaningful change. Let’s innovate together!
-
-
 _________________________________________________________________________________________________________________________________________________________________________________________
 
 Feel free to connect and collaborate!
