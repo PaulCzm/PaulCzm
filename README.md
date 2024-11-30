@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 Specialties:
 
-Numerical simulation of biological and biomedical systems.
+Mathematical modeling and numerical simulation of biological and biomedical systems.
 
 Bioinformatics and AI-driven solutions.
 
