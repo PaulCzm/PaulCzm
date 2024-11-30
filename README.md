@@ -1,12 +1,12 @@
 
-Hi, I’m Paul Cozmuta, a Biomedical Engineer and a Master’s student in Applied Mathematics and Computation. My passion lies in integrating mathematics, computation, and biology to address complex challenges in healthcare and biotechnology.
+Hi! I’m Paul Cozmuta, a Biomedical Engineer and a Master’s student in Applied Mathematics and Computation. My passion lies in integrating mathematics, computation, and biology to address complex challenges in healthcare and biotechnology.
 
 _________________________________________________________________________________________________________________________________________________________________________________________
 
 Specialties:
 
 Numerical simulation of biological and biomedical systems.
-Bioinformatics and AI-driven solutions for health, biotech, and pharma.
+Bioinformatics and AI-driven solutions.
 
 _________________________________________________________________________________________________________________________________________________________________________________________
 
