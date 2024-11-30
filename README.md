@@ -7,15 +7,15 @@ ________________________________________________________________________________
 
 ## Specialties:
 
-Mathematical modeling and numerical simulation of biological and biomedical systems.
+• Mathematical modeling and numerical simulation of biological and biomedical systems.
 
-Bioinformatics and AI-driven solutions.
+• Bioinformatics and AI-driven solutions.
 
 _________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Goal:
 
-My passion lies in integrating mathematics, computation, and biology to address complex challenges in healthcare and biotechnology.
+• My passion lies in integrating mathematics, computation, and biology to address complex challenges in healthcare and biotechnology.
 
 _________________________________________________________________________________________________________________________________________________________________________________________
 
